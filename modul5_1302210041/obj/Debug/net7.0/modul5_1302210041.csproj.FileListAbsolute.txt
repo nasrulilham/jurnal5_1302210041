@@ -1,0 +1,15 @@
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\bin\Debug\net7.0\modul5_1302210041.exe
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\bin\Debug\net7.0\modul5_1302210041.deps.json
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\bin\Debug\net7.0\modul5_1302210041.runtimeconfig.json
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\bin\Debug\net7.0\modul5_1302210041.dll
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\bin\Debug\net7.0\modul5_1302210041.pdb
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.csproj.AssemblyReference.cache
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.AssemblyInfoInputs.cache
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.AssemblyInfo.cs
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.csproj.CoreCompileInputs.cache
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.dll
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\refint\modul5_1302210041.dll
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.pdb
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\modul5_1302210041.genruntimeconfig.cache
+D:\jurnal\jurnal5_1302210041\modul5_1302210041\obj\Debug\net7.0\ref\modul5_1302210041.dll
